@@ -42,43 +42,93 @@ Upon completion of the specialization, you will receive a certificate that valid
 - **Type:** Specialization Certificate
 - **Skills Covered:** 
 ## Courses
-| Course Title                                   | Duration | Rating            | Key Topics                                                  | Skills Gained                                    |
-|------------------------------------------------|----------|------------------|------------------------------------------------------------|-------------------------------------------------|
-| Python for Data Science, AI & Development      | 25 hours | 4.6/5 (38,186 ratings) | Python fundamentals, data structures, APIs, web scraping  | Python, Pandas, Numpy, Jupyter Notebooks        |
-| Python Project for Data Science                 | 8 hours  | 4.5/5 (4,292 ratings)  | Build dashboards, work with real datasets                 | Data Analysis, Pandas, BeautifulSoup, Plotly    |
-| Data Analysis with Python                       | 15 hours | 4.7/5 (18,423 ratings) | Data cleaning, exploratory analysis, regression models     | Data Analysis, Regression, Pandas, Scikit-learn |
-| Data Visualization with Python                  | 20 hours | 4.5/5 (11,804 ratings) | Charts, advanced visualizations, dashboards                | Matplotlib, Seaborn, Dash, Plotly                |
-| Applied Data Science Capstone                   | 13 hours | 4.7/5 (7,154 ratings)  | End-to-end data science project, model development        | Data Wrangling, Machine Learning, SVM, Decision Trees |
+| Course Title                                   | Duration | Rating                | Key Topics                                                  | Skills Gained                                    | Course Link                                                                                                              |
+|------------------------------------------------|----------|-----------------------|-------------------------------------------------------------|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Python for Data Science, AI & Development      | 25 hours | 4.6/5 (38,186 ratings) | Python fundamentals, data structures, APIs, web scraping    | Python, Pandas, Numpy, Jupyter Notebooks        | [Course Link](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=applied-data-science)     |
+| Python Project for Data Science                | 8 hours  | 4.5/5 (4,292 ratings)  | Build dashboards, work with real datasets                   | Data Analysis, Pandas, BeautifulSoup, Plotly    | [Course Link](https://www.coursera.org/learn/python-project-for-data-science?specialization=applied-data-science)        |
+| Data Analysis with Python                      | 15 hours | 4.7/5 (18,423 ratings) | Data cleaning, exploratory analysis, regression models       | Data Analysis, Regression, Pandas, Scikit-learn | [Course Link](https://www.coursera.org/learn/data-analysis-with-python?specialization=applied-data-science)              |
+| Data Visualization with Python                 | 20 hours | 4.5/5 (11,804 ratings) | Charts, advanced visualizations, dashboards                 | Matplotlib, Seaborn, Dash, Plotly               | [Course Link](https://www.coursera.org/learn/python-for-data-visualization?specialization=applied-data-science)          |
+| Applied Data Science Capstone                  | 13 hours | 4.7/5 (7,154 ratings)  | End-to-end data science project, model development          | Data Wrangling, Machine Learning, SVM, Decision Trees | [Course Link](https://www.coursera.org/learn/applied-data-science-capstone?specialization=applied-data-science)          |
+
 
 **Note:** After completing each course, learners receive a certificate of completion. Upon completing all four courses, learners receive the specialization certificate.
 
 You can view my certificates for the individual courses and the overall specialization here:
 
+- [Course 1: Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/LIN8IW4WG88L)
+- [Course 2: Python Project for Data Science]()
+- [Course 3: Data Analysis with Python]()
+- [Course 4: Data Visualization with Python]()
+- [Course 5: Applied Data Science Capstone]()
 
-
----
-
-## Key Projects
-| Project Title                   | Description                                               | Hard Skills Gained                     | Link         |
-|---------------------------------|-----------------------------------------------------------|----------------------------------------|--------------|
-| Financial Data Visualization     | Extract and graph financial data using Pandas           | Data Wrangling, Pandas, Data Visualization | View Project |
-| Housing Price Prediction        | Build regression models to predict housing prices using NumPy and Scikit-learn | Regression Analysis, Scikit-learn, Numpy, Data Cleaning | View Project |
-| US Flight Data Dashboard        | Create dynamic visualizations using Plotly Dash to analyze flight data | Data Visualization, Dash, Plotly, Python | View Project |
-| SpaceX Launch Prediction        | Train machine learning models to predict rocket reuse using real-world SpaceX data | Machine Learning, SVM, Decision Trees, KNN | View Project |
 
 ---
 ## Quizzes and assignements 
 
-| Item                                             | Status            | Due                     | Weight | Grade |
-|--------------------------------------------------|-------------------|-------------------------|--------|-------|
-| Module 1 Graded Quiz: Python Basics              | Graded Assignment  | Oct 7, 11:59 PM +01    | 15%    | 100%  |
-| Module 2 Graded Quiz: Python Data Structures     | Graded Assignment  | Oct 11, 11:59 PM +01   | 15%    | 80%   |
-| Module 3 Graded Quiz: Python Programming Fundamentals | Graded Assignment  | Oct 16, 11:59 PM +01   | 15%    | 90%   |
-| Module 4 Graded Quiz: Working with Data in Python | Graded Assignment  | Oct 21, 11:59 PM +01   | 15%    | 90%   |
-| Module 5 Graded Quiz: APIs and Data Collection    | Graded Assignment  | Oct 25, 11:59 PM +01   | 10%    | 100%  |
-| **Final Exam for the Course**                    | Graded Assignment  | Oct 25, 11:59 PM +01   | 30%    | 100%  |
+**Course 1: Python for Data Science, AI & Development**
+
+| Item                                          | Status        | Due                     | Weight | Grade |
+|-----------------------------------------------|---------------|-------------------------|--------|-------|
+| Module 1 Graded Quiz: Python Basics          | Passed        | Oct 7, 11:59 PM +01    | 15%    | 100%  |
+| Module 2 Graded Quiz: Python Data Structures  | Passed        | Oct 11, 11:59 PM +01   | 15%    | 80%   |
+| Module 3 Graded Quiz: Python Programming Fundamentals | Passed  | Oct 16, 11:59 PM +01   | 15%    | 90%   |
+| Module 4 Graded Quiz: Working with Data in Python | Passed   | Oct 21, 11:59 PM +01   | 15%    | 90%   |
+| Module 5 Graded Quiz: APIs and Data Collection | Passed      | Oct 25, 11:59 PM +01   | 10%    | 100%  |
+| Final Exam for the Course                    | Passed        | Oct 25, 11:59 PM +01   | 30%    | 100%  |
+| **Total Grade**                              |               |                         |        | **94%** |
 
 
+**Course 2: Python Project for Data Science**
 
+
+| Item                                          | Status        | Due                     | Weight | Grade   |
+|-----------------------------------------------|---------------|-------------------------|--------|---------|
+| Extracting Stock Data Using a Python Library  | Passed        | Oct 7, 11:59 PM +01    | 20%    | 66.66%  |
+| Extracting Stock Data Using a Web Scraping    | Passed        | Oct 7, 11:59 PM +01    | 20%    | 100%    |
+| Analyzing Historical Stock/Revenue Data and Building a Dashboard | Passed | Oct 9, 11:59 PM +01    | 60%    | 100%    |
+| **Total Grade**                              |               |                         |        | **93.33%** |
+
+**Course 3: Data Analysis with Python**
+
+
+| Item                                          | Status        | Due                     | Weight | Grade   |
+|-----------------------------------------------|---------------|-------------------------|--------|---------|
+| Graded Quiz: Importing Data Sets              | Passed        | Oct 4, 11:59 PM +01    | 10%    | 100%    |
+| Graded Quiz: Data Wrangling                   | Passed        | Oct 7, 11:59 PM +01     | 10%    | 80%     |
+| Graded Quiz: Exploratory Data Analysis        | Passed        | Oct 9, 11:59 PM +01    | 10%    | 100%    |
+| Graded Quiz: Model Development                | Passed        | Oct 11, 11:59 PM +01    | 10%    | 100%    |
+| Graded Quiz: Model Evaluation and Refinement  | Passed        | Oct 14, 11:59 PM +01    | 10%    | 100%    |
+| Submit your Project and Review Others         | Passed        | Oct 16, 11:59 PM +01    | 14%    | 90%     |
+| Final Exam                                    | Passed        | Oct 16, 11:59 PM +01    | 36%    | 95%     |
+| **Total Grade**                               |               |                         |        | **94.80%** |
+
+**Course 4: Data Visualization with Python**
+
+| Item                                          | Status        | Due                     | Weight | Grade   |
+|-----------------------------------------------|---------------|-------------------------|--------|---------|
+| Graded Quiz: Introduction to Data Visualization Tools | Passed | Oct 9, 11:59 PM +01    | 15%    | 100%    |
+| Graded Quiz: Basic and Specialized Visualization Tools | Passed | Oct 11, 11:59 PM +01    | 15%    | 80%     |
+| Graded Quiz: Advanced Visualizations and Geospatial Data | Passed | Oct 16, 11:59 PM +01    | 15%    | 90%     |
+| Graded Quiz: Creating Dashboards with Plotly and Dash | Passed | Oct 18, 11:59 PM +01    | 15%    | 80%     |
+| Final Assignment: Part 3 - Submission and Grading | Passed | Oct 21, 11:59 PM +01    | 25%    | 100%    |
+| Final Exam: Data Visualization with Python - Timed Quiz | Passed | Oct 21, 11:59 PM +01    | 15%    | 93.33%  |
+| **Total Grade**                               |               |                         |        | **91.50%** |
+
+**Course 5: Applied Data Science Capstone**
+
+
+| Item                                          | Status        | Due                     | Weight | Grade   |
+|-----------------------------------------------|---------------|-------------------------|--------|---------|
+| Graded Quiz: Data Collection API with Webscraping | Passed | Oct 7, 11:59 PM +01    | 10%    | 100%    |
+| Graded Quiz: Data Wrangling Quiz             | Passed       | Oct 9, 11:59 PM +01    | 10%    | 75%     |
+| Exploratory Data Analysis using SQL          | Passed       | Oct 9, 11:59 PM +01    | 10%    | 100%    |
+| Exploratory Data Analysis for Data Visualization | Passed     | Oct 9, 11:59 PM +01    | 10%    | 100%    |
+| Graded Quiz: Interactive Visual Analytics and Dashboard | Passed | Oct 11, 11:59 PM +01   | 10%    | 100%    |
+| Graded Quiz: Predictive Analysis             | Passed       | Oct 11, 11:59 PM +01    | 10%    | 100%    |
+| Peer Review: Submit your Work and Review your Peers | Passed | Oct 14, 11:59 PM +01    | 40%    | 100%    |
+| **Total Grade**                               |               |                         |        | **97.50%** |
+
+
+### Key Projects
 
 
